@@ -1,11 +1,11 @@
-# memoize
+# Задание memoize
 
 Напишите memoize (без параметра-хэшера).
 Написанная функция должна возвращать дженерик.
 ([источник](https://habr.com/ru/company/ruvds/blog/419993/))
 
 ----
-##Usage:
+## Usage:
 
 ```typescript
 const add = (a: number, b: number) => {
